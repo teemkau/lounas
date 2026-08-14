@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-13",
-  "updated_at": "2026-08-13T15:00:59.911182+03:00",
+  "date": "2026-08-14",
+  "updated_at": "2026-08-14T10:25:00.565446+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,11 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Lihapullat pippurikastikkeessa (L,G)",
-        "Makkaramix (L,G)",
-        "Kampelaa & smetana-kevätsipulikastiketta (L,G)",
-        "Pannukakkua, hilloa & pehmyt -jäätelöä (Laktoositon pannari kassalta)"
+        "Paahdettua porsaan kassleria ja yrtti-piparjuurikastiketta (L,G)",
+        "Broilerin paistinleikettä sekä srirachabearnaisea (L,G)",
+        "Ranskanperunoita & Kurkumariisiä (M,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:",
+        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
       ]
     },
     {
@@ -25,10 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Pestoinen broileripasta, ratatouillevihanneksia L",
-        "Ryynimakkaraa, perunamuusia L",
-        "Kermainen porsaanfilepata, paistettuja perunoita L, G"
+        "Naudanjauheliha-pastapaistos L",
+        "Kalkkunaleike, paprikamajoneesia L",
+        "Lehtipihvi ( possusta), maustevoikastiketta, paahdettuja perunoita L, G"
       ]
     },
     {
@@ -39,12 +45,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Perinteinen hernekeitto & hakattua sipulia (M,G)",
-        "Härkä kebab, tulista tomaattikastiketta & minttujugge (L,G)",
-        "Kananpoikaa & romescokastiketta (L,G)",
-        "Kermaperunat (L,G)",
-        "Tomaattinen mozzarella-gnocchivuoka (L)",
-        "Pihlajalinnan letut, talon mansikkahilloa & kermavaahtoa (L)"
+        "Misokeitto, nuudelit (M,G)",
+        "Teriyaki kana (M,G)",
+        "Korean-bbq possun ribsit (M,G)",
+        "Ristikkoperunat & jalapenomajo (M,G)",
+        "Kukkakaali wings, kermaviili dippi (L,G)",
+        "Jäätelö buffet"
       ]
     }
   ]
