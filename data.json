@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "updated_at": "2026-08-14T10:25:00.565446+03:00",
+  "date": "2026-08-17",
+  "updated_at": "2026-08-17T09:56:08.951245+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,18 +10,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Paahdettua porsaan kassleria ja yrtti-piparjuurikastiketta (L,G)",
-        "Broilerin paistinleikettä sekä srirachabearnaisea (L,G)",
-        "Ranskanperunoita & Kurkumariisiä (M,G)",
-        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
-        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
-        "Miksi meille?",
-        "Maku edellä:",
-        "sesongin raaka-aineet ja paikalliset tuottajat.",
-        "Helppous:",
-        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
-        "Tunnelma:",
-        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
+        "Kanakori broilerin sisäfileestä, kurkkudippiä ja pikkelöityä punasipulia (M)",
+        "Chili Con Carnea naudan suikaleesta (M,G)",
+        "Palvikinkku- herkkusienipastaa, rucolaa & parmesania (L)",
+        "Yrtti-vihannesriisiä (M,G)",
+        "Paistetut kasvikset (M,G)",
+        "Pehmyt- jäätelöä (L,G)"
       ]
     },
     {
@@ -32,9 +26,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Naudanjauheliha-pastapaistos L",
-        "Kalkkunaleike, paprikamajoneesia L",
-        "Lehtipihvi ( possusta), maustevoikastiketta, paahdettuja perunoita L, G"
+        "Kukonaskel, riisiä, currykastiketta L, G",
+        "Uunimakkaraa, perunamuusia, gratinoituja tomaatteja L, G",
+        "Tillivoissa paistettua kampelaa, kermaviilidippiä L, G"
       ]
     },
     {
@@ -45,12 +39,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Misokeitto, nuudelit (M,G)",
-        "Teriyaki kana (M,G)",
-        "Korean-bbq possun ribsit (M,G)",
-        "Ristikkoperunat & jalapenomajo (M,G)",
-        "Kukkakaali wings, kermaviili dippi (L,G)",
-        "Jäätelö buffet"
+        "Paahdettu paprikakeitto & jalapenotuorejuusto (L,G)",
+        "Italialaiset lihapullat tomaattikastikkeessa (M,G)",
+        "Kananpoikaa Toscanalaisittain (L,G)",
+        "Yrtti-paahdetut perunat (L,G)",
+        "Pesto-gnocchi & yrttiöljyä (L)",
+        "Mansikka-mascarponevaahto (VL,G)"
       ]
     }
   ]
