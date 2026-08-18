@@ -1,15 +1,22 @@
 {
   "date": "2026-08-18",
-  "updated_at": "2026-08-18T09:43:01.827547+03:00",
+  "updated_at": "2026-08-18T13:14:19.458655+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
       "source": "https://avantinpaviljonki.fi/",
       "hours": "10.30–14.30",
       "price": "12,90 €",
-      "ok": false,
-      "message": "Lista ei saatavilla automaattisesti",
-      "dishes": []
+      "ok": true,
+      "message": "",
+      "dishes": [
+        "Silakkapihvit, fenkoli-sipulipaistosta ja katkarapukermaviiliä (L)",
+        "Ryynimakkaraa & puolukkahilloa (L)",
+        "Jauhelihapihvit & rakuuna-viherpippurikastiketta (L,G)",
+        "Perunamuusia (L,G)",
+        "Uunijuurekset (M,G)",
+        "Pehmyt -jäätelöä (L,G)"
+      ]
     },
     {
       "name": "Kajuutta",
