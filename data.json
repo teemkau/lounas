@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-19",
-  "updated_at": "2026-08-19T09:43:32.117815+03:00",
+  "date": "2026-08-20",
+  "updated_at": "2026-08-20T09:46:04.017373+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,10 +10,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Perinteistä nakkisoosia (L,G)",
-        "Porsaan ulkofileetä ja pippurikastiketta (L,G)",
-        "Broilerin paistinleikettä & Chorón -kastiketta (L,G)",
-        "Keitinperunaa ja ranskanperunoita (M,G)"
+        "Hernekeittoa (M,G)",
+        "Bellmannin pyttipannua & ryytisinappikermaviiliä (L,G)",
+        "Broilerin fileetä Tikka Masala (L,G)",
+        "Bolognesekastiketta (M,G)",
+        "Riisiä (M,G) & Spagettia (M)",
+        "Pannukakkua, marjahilloa & pehmyt- jäätelöä (Laktoositon pannari kassalta)"
       ]
     },
     {
@@ -24,10 +26,10 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Aurajuustokeitto L, G",
-        "Kermaiset uunisilakat, tilliperunoita L, G",
-        "Limebroileria, kurkumariisiä L, G",
-        "Pekonilihapullat, pippuri-kermakastiketta, vihannespaistosta L, G"
+        "Hernekeitto (L, G) ja pannukakkua L",
+        "Härkäwokki, nuudeleita L",
+        "Feta-kasviskiusaus L, G",
+        "Paneroituja broilerinpaisteja, pilahviriisiä, paistettuja vihanneksia L"
       ]
     },
     {
@@ -38,12 +40,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Mustajuurikeitto & rapeaksi paistettua parmakinkkua (L,G)",
-        "Oskarinleike & choroneesi (L)",
-        "Ranskanperunat (L,G)",
-        "PulledPork, BBQ-kastike (M,G)",
-        "Punajuuri-aurajuustopaistos (L,G)",
-        "Mustikka-valkosuklaarahka (VL,G)"
+        "Perinteinen hernekeitto & hakattua sipulia (M,G)",
+        "Ylikypsää possua & viikuna-punaviinikastiketta (M,G)",
+        "Tortilla buffet (L,G keittiöstä)",
+        "Rosmariini paahdetut perunat (L,G)",
+        "Kaudenkasvikset (M,G)",
+        "Pihlajalinnan letut, talon hilloa & kermavaahtoa (L)"
       ]
     }
   ]
