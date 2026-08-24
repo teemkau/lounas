@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "updated_at": "2026-08-21T09:46:53.744117+03:00",
+  "date": "2026-08-24",
+  "updated_at": "2026-08-24T09:58:39.496993+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,18 +10,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Siskonmakkarakeittoa (M,G)",
-        "Porsaan ribsejä & jalapenomajoneesia (M,G)",
-        "Uunilohta & kevätsipuli beurre blanc (L,G)",
-        "Perunamuusia (L,G) & Tikkuperunoita (M,G)",
-        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
-        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
-        "Miksi meille?",
-        "Maku edellä:",
-        "sesongin raaka-aineet ja paikalliset tuottajat.",
-        "Helppous:",
-        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
-        "Tunnelma:"
+        "Perinteistä jauhelihasoossia (L,G)",
+        "Paahdettua porsaankylkeä & sitruunaruoholla maustettua soija-inkiväärikastiketta (M,G)",
+        "Broilerin sisäfileetä & kastiketta paahdetusta paprikasta (L,G)",
+        "Kasvis-munanuudelia (M) & Keitinperunaa (M,G)",
+        "Paistetut kasvikset (M,G)",
+        "Pehmyt- jäätelöä (L,G)"
       ]
     },
     {
@@ -32,9 +26,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Lohigratiini, juurespaistosta L, G",
-        "Paistettua naudan maksaa, sipulikastiketta L, G",
-        "Grillipihvi possusta, punaviinikastiketta, paahdettua perunaa L, G"
+        "Makkarastroganoff, perunamuusia L, G",
+        "Savukinkkukiusaus, paistettuja vihanneksia L, G",
+        "Paahdettua broilerinfilettä, riisiä, kermainen tomaattikastike L, G"
       ]
     },
     {
@@ -45,12 +39,13 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Tomaattikeitto & fritattua halloumia (L,G)",
-        "Riistakäristys & puolukkaa (L,G)",
-        "Pottuvoi (L,G)",
-        "Juustoinen savuporovuoka (L,G)",
-        "Tofu kasviswok (L,G)",
-        "Vadelmamousse (L,G)"
+        "Savuporokeitto & leipäjuustomurua (L,G)",
+        "Jauhelihamureke, paistikastike (L,G)",
+        "Kananpoikaa slaavilaiseen tapaan (L,G)",
+        "Keitinperunat & persilja-voisulaa (L,G)",
+        "Marokkolaiset kasvispihvit & harissa-jogurttia (L,G)",
+        "Kauden kasvikset (M,G)",
+        "Kahden suklaan mousse (L,G)"
       ]
     }
   ]
