@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-24",
-  "updated_at": "2026-08-24T09:58:39.496993+03:00",
+  "date": "2026-08-25",
+  "updated_at": "2026-08-25T09:48:35.728609+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,12 +10,10 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Perinteistä jauhelihasoossia (L,G)",
-        "Paahdettua porsaankylkeä & sitruunaruoholla maustettua soija-inkiväärikastiketta (M,G)",
-        "Broilerin sisäfileetä & kastiketta paahdetusta paprikasta (L,G)",
-        "Kasvis-munanuudelia (M) & Keitinperunaa (M,G)",
-        "Paistetut kasvikset (M,G)",
-        "Pehmyt- jäätelöä (L,G)"
+        "Kermaista lohikeittoa (L,G)",
+        "Smetanainen possu stroganoff (L,G)",
+        "Kievin kanaa ja valkosipuli -yrttikermaviiliä (L)",
+        "Perunamuusia (L,G)"
       ]
     },
     {
@@ -26,9 +24,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Makkarastroganoff, perunamuusia L, G",
-        "Savukinkkukiusaus, paistettuja vihanneksia L, G",
-        "Paahdettua broilerinfilettä, riisiä, kermainen tomaattikastike L, G"
+        "Savuporokeitto L, G",
+        "Jauhelihatortillat, juustokastiketta, jalapenoja L",
+        "Broilerimureketta, sienikastiketta, yrttiriisiä, vihannespaistosta L, G"
       ]
     },
     {
@@ -39,13 +37,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Savuporokeitto & leipäjuustomurua (L,G)",
-        "Jauhelihamureke, paistikastike (L,G)",
-        "Kananpoikaa slaavilaiseen tapaan (L,G)",
-        "Keitinperunat & persilja-voisulaa (L,G)",
-        "Marokkolaiset kasvispihvit & harissa-jogurttia (L,G)",
-        "Kauden kasvikset (M,G)",
-        "Kahden suklaan mousse (L,G)"
+        "Tom Yam keitto ja munanuudelia (L,G)",
+        "Paistetut silakkapihvit & kermaviilikastiketta (L)",
+        "Naudanliha pyörykät, kermakastike & puolukkaa (L,G)",
+        "Paahdetut perunat (L,G)",
+        "Punajuuripihvit (V,G)",
+        "Banoffee-mousse (L,G)"
       ]
     }
   ]
