@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-25",
-  "updated_at": "2026-08-25T09:48:35.728609+03:00",
+  "date": "2026-08-26",
+  "updated_at": "2026-08-26T09:50:11.703064+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,10 +10,10 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Kermaista lohikeittoa (L,G)",
-        "Smetanainen possu stroganoff (L,G)",
-        "Kievin kanaa ja valkosipuli -yrttikermaviiliä (L)",
-        "Perunamuusia (L,G)"
+        "Mureaa possun sisäfileetä sekä dijonilla maustettua kerma-pekonikastiketta (L,G)",
+        "Oman keittiön broilermurekepihvit & Currykastiketta (L,G)",
+        "Kermaperunaa (L,G) & Yrtti -ranskanperunoita (M,G)",
+        "Pehmyt -jäätelöä (L,G)"
       ]
     },
     {
@@ -24,9 +24,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Savuporokeitto L, G",
-        "Jauhelihatortillat, juustokastiketta, jalapenoja L",
-        "Broilerimureketta, sienikastiketta, yrttiriisiä, vihannespaistosta L, G"
+        "Sipulikeitto L, G",
+        "Rapea lohileike, sitruunamajoneesia, skånenperunoita, paahdettuja vihanneksia L",
+        "Possun noisetit, pippuri-kermakastiketta L, G"
       ]
     },
     {
@@ -34,16 +34,9 @@
       "source": "https://www.pegasus-ravintolat.fi/pegasusavanti",
       "hours": "10.30–14.30",
       "price": "13,00 €",
-      "ok": true,
-      "message": "",
-      "dishes": [
-        "Tom Yam keitto ja munanuudelia (L,G)",
-        "Paistetut silakkapihvit & kermaviilikastiketta (L)",
-        "Naudanliha pyörykät, kermakastike & puolukkaa (L,G)",
-        "Paahdetut perunat (L,G)",
-        "Punajuuripihvit (V,G)",
-        "Banoffee-mousse (L,G)"
-      ]
+      "ok": false,
+      "message": "Lista ei saatavilla automaattisesti",
+      "dishes": []
     }
   ]
 }
