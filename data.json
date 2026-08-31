@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-28",
-  "updated_at": "2026-08-28T21:16:31.097527+03:00",
+  "date": "2026-08-31",
+  "updated_at": "2026-08-31T15:54:14.266192+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,18 +10,11 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Karjalanpaistia (M,G)",
-        "Naudan kebabia, Paviljongin chili-tomaattikastiketta (M,G) & Tsatsikia (L,G)",
-        "Broileri -aurajuustopastaa, sitruunapestoa ja tomaatti-punasipulihöystöä (L)",
-        "Ranskalaiset sekä Keitinperunaa (M,G)",
-        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
-        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
-        "Miksi meille?",
-        "Maku edellä:",
-        "sesongin raaka-aineet ja paikalliset tuottajat.",
-        "Helppous:",
-        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
-        "Tunnelma:"
+        "Ylikypsää naudan niskaa, punaviinikastiketta & romescoa (M,G)",
+        "Broilerin paistinleikettä & dijon- rakuunakastiketta (L,G)",
+        "Paahdettua pikkuperunaa & parmesania (L,G) sekä Persiljariisiä (M,G)",
+        "Paistetut kasvikset (M,G)",
+        "Pehmyt -jäätelöä (L,G)"
       ]
     },
     {
@@ -32,9 +25,10 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Broileripyttipannua, paistettuja kananmunia L, G",
-        "Kasvispihvit L, G",
-        "Wienerleike, uunilohkoperunoita, currymajoneesia, paistettuja vihanneksia L"
+        "Smetanainen broilerikastike, pilahviriisiä L, G",
+        "Makkaramix L, G",
+        "Barbequepossua, grilliperunoita,",
+        "paistettuja vihanneksia L, G"
       ]
     },
     {
