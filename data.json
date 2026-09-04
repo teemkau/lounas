@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-03",
-  "updated_at": "2026-09-03T13:46:43.435165+03:00",
+  "date": "2026-09-04",
+  "updated_at": "2026-09-04T13:45:42.047344+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,11 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Broilerin fileetä ja suppilovahverokastiketta (L,G)",
-        "Pitkään haudutettua naudanlihapataa burgundin tyyliin (M,G)",
-        "Paistinperunoita & Riisiä (M,G)",
-        "Pannukakkua, sekahilloa & pehmyt -jäätelöä ( Laktoositon pannari kassalta )"
+        "Porsaan grillipihvit & jallupippurikastiketta (L,G)",
+        "Uunismetanalohta (L,G)",
+        "Tillivoisulassa pyörätettyä keitinperunaa (L,G) sekä Ranskanperunoita (M,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:",
+        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
       ]
     },
     {
@@ -25,11 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Kalapuikot, kermaviilikastiketta L",
-        "Broileria Sweet & Sour, riisiä L, G",
-        "Täytettyä lihamureketta, timjamikastike,",
-        "paistettuja perunoita L, G"
+        "Broileripyttipannua, paistettuja kananmunia L, G",
+        "Kasvispihvit L, G",
+        "Wienerleike, uunilohkoperunoita, currymajoneesia, paistettuja vihanneksia L"
       ]
     },
     {
