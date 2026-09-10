@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-09",
-  "updated_at": "2026-09-09T13:52:09.656908+03:00",
+  "date": "2026-09-10",
+  "updated_at": "2026-09-10T13:46:57.334939+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,10 +10,11 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Kermaista lohikeittoa (L,G)",
-        "Paviljongin jauhelihapihvit ja timjami-rosmariinikastiketta (L,G)",
-        "Maissipaneroitua broilerin paistia sekä paholaisendippiä (M,G)",
-        "Perunamuusia (L,G) & Ranskalaisia (M,G)"
+        "Hernekeittoa (M,G)",
+        "Pitkään haudutettu possun kassleria & tumma dijon-piparjuurikastike (L,G)",
+        "Teriyaki broilerin sisäfileetä & karamellisoitua cashew-pähkinää (M,G)",
+        "Kermaperunaa (L,G) & Riisiä (M,G)",
+        "Pannukakkua, sekahilloa & pehmyt -jäätelöä (Laktoositon pannari kassalta)"
       ]
     },
     {
@@ -21,14 +22,9 @@
       "source": "https://www.kajuutta.fi/lounaslista",
       "hours": "arkisin",
       "price": "11,90 €",
-      "ok": true,
-      "message": "",
-      "dishes": [
-        "Kylmäsavulohikeitto L, G",
-        "Afredon kanapasta, paprika-sipulipaistosta L",
-        "Glaseerattua possunkylkeä, paahdettuja perunoita L, G",
-        "Merimiespihvi L, G"
-      ]
+      "ok": false,
+      "message": "Lista ei saatavilla automaattisesti",
+      "dishes": []
     },
     {
       "name": "Pegasus Avanti",
