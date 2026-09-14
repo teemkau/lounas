@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-11",
-  "updated_at": "2026-09-11T13:44:01.331034+03:00",
+  "date": "2026-09-14",
+  "updated_at": "2026-09-14T14:59:51.894481+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,18 +10,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Makkaramix & Hapankaalia (L,G)",
-        "Oman keittiön lohimurekepihvit, haudutettua sitrus-fenkolia sekä Skagen -kermaviiliä (L,G)",
-        "Bolognesekastiketta (M,G) sis. selleriä",
-        "Perunamuusia (L,G) & Spagettia (M)",
-        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
-        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
-        "Miksi meille?",
-        "Maku edellä:",
-        "sesongin raaka-aineet ja paikalliset tuottajat.",
-        "Helppous:",
-        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
-        "Tunnelma:"
+        "Nakkisoosia (L,G)",
+        "Nyhtöpossua BBQ sekä paprikamajoneesia (M,G)",
+        "Kampelaa & tilli-sitrushollandaisea (L,G)",
+        "Perunamuusia (L,G) & Ranskanperunoita (M,G)",
+        "Paistetut kasvikset (M,G)",
+        "Pehmyt -jäätelöä (L,G)"
       ]
     },
     {
@@ -32,9 +26,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Jauhemaksapihvit, puolukkasurvosta L, G",
-        "Kebablihawokki, riisiä, paistettuja kasviksia L, G",
-        "Broilerileike, grilliperunoita, currydippiä L"
+        "Kukkoa viinissä, herkkusieni-hillosipulipaistosta, yrttiriisiä L, G",
+        "Nakit ja muusi L, G",
+        "Tillivoissa paistettua kampelaa, kermaviilidippiä L"
       ]
     },
     {
