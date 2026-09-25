@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24",
-  "updated_at": "2026-09-24T14:14:10.077212+03:00",
+  "date": "2026-09-25",
+  "updated_at": "2026-09-25T14:19:08.364076+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,10 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Lihamureketta, viherpippuri-pekonikastiketta ja puolukkahilloa (L,G)",
-        "Lohta & voikastiketta (L,G)",
-        "Pannukakkua, sekahilloa & pehmyt -jäätelöä (Laktoositon pannari kassalta)"
+        "Naudan kebabia mausteisessa tomaattikastikkeessa (M,G) ja Tsatsikia (L,G)",
+        "Broilerin sisäfileetä & kermaista currykastiketta (L,G)",
+        "Ranskanperunoita & Riisiä (M,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:",
+        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
       ]
     },
     {
@@ -24,10 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Gulassi, persiljaperunoita, paprikapaistosta L, G",
-        "Gratinoitu kinkkupekonipasta L",
-        "Broilerin sisäfilettä, pekoni-kermakastiketta, pilahviriisiä L, G"
+        "Pyttipannu, paistettuja kananmunia L. G",
+        "Broilerinachopelti L, G",
+        "Hawaijinleike, lohkoperunoita, grillivihanneksia, chilimajoneesia L"
       ]
     },
     {
