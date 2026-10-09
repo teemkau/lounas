@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-08",
-  "updated_at": "2026-10-08T15:56:05.818833+03:00",
+  "date": "2026-10-09",
+  "updated_at": "2026-10-09T15:41:58.891912+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,12 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Kebabkiusausta (L,G)",
-        "Makkaraperunat, paprikamajoneesia & kurkkusalaattia (M,G)",
-        "Oman keittiön broilermurekepihvit ja rakuunakastiketta (L,G)",
-        "Riisiä (M,G)",
-        "Pannukakkua, sekahilloa & pehmyt -jäätelöä (Laktoositon pannari kassalta)"
+        "Paahdettua possun kassleria, savuchili bbq -kastiketta(M,G)",
+        "Kanan ohutta fileeleikettä & Chorónkastiketta (L,G)",
+        "Paistinperunoita (M,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:",
+        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
       ]
     },
     {
@@ -26,10 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Gratinoitua kasvispastaa, kukkakaalipaistosta L",
-        "Karjalanpaistia, perunamuusia L, G",
-        "Kanavartaat, lämmin salsakastike, riisiä L, G"
+        "Broileriquesadillat, guacamoledippiä L",
+        "Kalastajan pyttipannu L, G",
+        "Lehtipihvi possusta, maustevoikastiketta, paahdettua perunaa L, G"
       ]
     },
     {
