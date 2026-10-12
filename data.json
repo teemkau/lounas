@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "updated_at": "2026-10-09T15:41:58.891912+03:00",
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12T17:36:50.350544+03:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,18 +10,12 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Paahdettua possun kassleria, savuchili bbq -kastiketta(M,G)",
-        "Kanan ohutta fileeleikettä & Chorónkastiketta (L,G)",
-        "Paistinperunoita (M,G)",
-        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
-        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
-        "Miksi meille?",
-        "Maku edellä:",
-        "sesongin raaka-aineet ja paikalliset tuottajat.",
-        "Helppous:",
-        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
-        "Tunnelma:",
-        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
+        "Bolognesekastiketta (M,G) Sis. selleriä !",
+        "Puna-ahventa & fenkoli-valkoviinikastiketta (L,G)",
+        "Pippurinen paprikapossupata (L,G)",
+        "Spagettia (M) & Keitinperunaa (M,G)",
+        "Paistetut kasvikset (M,G)",
+        "Pehmyt -jäätelöä (L,G)"
       ]
     },
     {
@@ -32,9 +26,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Broileriquesadillat, guacamoledippiä L",
-        "Kalastajan pyttipannu L, G",
-        "Lehtipihvi possusta, maustevoikastiketta, paahdettua perunaa L, G"
+        "Kermainen nakkikastike, perunamuusia L, G",
+        "Vuohenjuustobroileria, riisiä L, G",
+        "Paneroitu turskapala, tilliperunoita, remouladea, paahdettuja vihanneksia L"
       ]
     },
     {
