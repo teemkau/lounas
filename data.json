@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29",
-  "updated_at": "2026-10-29T14:24:36.322482+02:00",
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30T14:16:21.783972+02:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,12 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Karjalanpaistia (M,G)",
-        "Kanaa Tikka Masala (L,G)",
-        "Ryynimakkaraa & puolukkahilloa (L)",
-        "Curry-vihannesriisiä & Keitinperunaa (M,G)",
-        "Pannukakkua, sekahilloa & pehmyt -jäätelöä (Laktoositon pannari kassalta)"
+        "Naudan kebabia, talon chili-tomaattikastiketta (M,G) & Minttu-valkosipulijogurttia (L,G)",
+        "Broilerin fileetä & kolmen pippurin kastiketta (L,G)",
+        "Ranskanperunoita (M,G) & Riisiä (M,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:",
+        "toimivat, kauniit tilat pienistä juhlista yritystilaisuuksiin."
       ]
     },
     {
@@ -26,10 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Broilerimureketta, kermainen tomaattikastike, wokkivihanneksia L, G",
-        "Paistettuja muikkuja, pottumuusia L",
-        "Burgundin härkää, kerma-valkosipuliperunoita L, G"
+        "Lasagne, munakoisopaistosta L",
+        "Itämainen broileriwokki, paistettua riisiä L, G",
+        "Broilerileike, grilliperunoita, srirachamajoneesia L"
       ]
     },
     {
