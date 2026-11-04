@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-03",
-  "updated_at": "2026-11-03T15:44:09.641936+02:00",
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04T15:52:46.836078+02:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,10 +10,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Kermaista lohikeittoa (L,G)",
-        "Porsaan kassleria ja kanttarellikastiketta (L,G)",
-        "Broilerin sisäfileetä & yrtti-tomaattikastiketta (L,G)",
-        "Paistinperunoita (M,G)"
+        "Lihapullat ja ruskeaa kastiketta (L,G)",
+        "Kampelaa & sitruksin maustettua katkarapuhollandaisea (L,G)",
+        "Perunamuusia (L,G)"
       ]
     },
     {
@@ -24,10 +23,10 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Aurajuustokeitto L, G",
-        "Juustolla kuorrutettua broileripastaa L",
-        "Chilipata, riisiä L, G",
-        "Pinaattinen uunilohi, keitetyt perunat, paahdettuja vihanneksia L, G"
+        "Bratwurstikeitto L, G",
+        "Porkkanaletut, puolukkahilloa L",
+        "Kermainen naudanjauhelihalaatikko L, G",
+        "Juustopaneroituja possunpihvejä, paahdettua perunaa, paprikadippiä L"
       ]
     },
     {
