@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "updated_at": "2026-11-12T16:44:16.563738+02:00",
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T16:01:33.279165+02:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,11 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Maissipaneroitua broileria (M,G) ja paholaisendippiä (L,G)",
-        "Porsaan ulkofileetä ja pekoni-herkkusienikastiketta (M,G)",
-        "Ranskanperunoita (M,G)",
-        "Pannukakkua, sekahilloa ja pehmyt -jäätelöä (Laktoositon pannari kassalta)"
+        "Jauhelihapihvejä ja koskenlaskijakastiketta (L,G)",
+        "Paistettua lohta (M,G) sekä skagendippiä (L,G)",
+        "Perunamuusia (L,G)",
+        "Pehmyt- jäätelöä (L,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:"
       ]
     },
     {
@@ -25,10 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Spagetti bolognese L",
-        "Haudutettuja broilerinkoipia, kasvisgratiinia L, G",
-        "Mureaa häränpaistia, parmesaani -perunoita, punaviinikastiketta L, G"
+        "Broileripyttipannua, paistettuja kananmunia L, G",
+        "Kasvispihvit L, G",
+        "Porsaanleike, uunilohkoperunoita, paprikamajoneesia, paistettuja vihanneksia L"
       ]
     },
     {
