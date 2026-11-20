@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "updated_at": "2026-11-19T17:21:12.667251+02:00",
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T16:58:43.500611+02:00",
   "restaurants": [
     {
       "name": "Avantin Paviljonki",
@@ -10,11 +10,18 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeittoa (M,G)",
-        "Lihapullat ja ruskea kastike (L,G)",
-        "Pitkään haudutettua naudan chuck rollia sekä savuchili-BBQ kastiketta (M,G)",
-        "Uunijuurekset (M,G)",
-        "Pannukakkua, sekahilloa & pehmyt- jäätelöä (Laktoositon pannari kassalta)"
+        "Broilerin ohutta fileeleikettä, balsamico -punaviinikastiketta & gremolataa (M,G)",
+        "Porsaan kassleria ja kastiketta tuoreesta herkkusienestä (L,G)",
+        "Kermaperunaa (L,G) sekä Persiljariisiä (M,G)",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Allergeenimerkinnät : L = Laktoositon, M = Maidoton, G = Gluteeniton. Kysy tarvittaessa henkilökunnalta lisätietoja.",
+        "Avantin Paviljonki tarjoaa upeat puitteet arjen herkkuhetkistä suuriin juhliin. Meiltä saat maistuvan lounaan, monipuolisen cateringin, tilat yksityis- ja yritystapahtumiin sekä kätevän drive-in-palvelun kiireisiin päiviin. Lounas arkipäivisin klo 10.30-14.30, sisältäen noutopöydän lämpimät ruuat sekä salaatit ja leivät, pehmytjäätelön, ruokajuomat sekä kahvin. Hinta 12,90 €.",
+        "Miksi meille?",
+        "Maku edellä:",
+        "sesongin raaka-aineet ja paikalliset tuottajat.",
+        "Helppous:",
+        "voit noutaa tai tilata tarjoilut henkilökuntamme hoitamana.",
+        "Tunnelma:"
       ]
     },
     {
@@ -25,10 +32,9 @@
       "ok": true,
       "message": "",
       "dishes": [
-        "Hernekeitto (L, G) ja pannukakkua L",
-        "Jauheliha-pastapaistos, uunitomaatteja L",
-        "Koskenlaskija-broilerikiusaus L, G",
-        "Yrttimajoneesilla kuorrutettua lohta, tilliperunoita L, G"
+        "Kebablihawokki, riisiä L, G",
+        "Luumuilla täytettyä possunfilettä, rosmariinikastiketta L, G",
+        "Broilerileike, uunilohkoperunoita, grillivihanneksia, chilimajoneesia L"
       ]
     },
     {
